@@ -1,0 +1,14 @@
+C:\Users\starushka\Desktop\DirCreator\bin\Debug\net8.0-windows\DirCreator.exe
+C:\Users\starushka\Desktop\DirCreator\bin\Debug\net8.0-windows\DirCreator.deps.json
+C:\Users\starushka\Desktop\DirCreator\bin\Debug\net8.0-windows\DirCreator.runtimeconfig.json
+C:\Users\starushka\Desktop\DirCreator\bin\Debug\net8.0-windows\DirCreator.dll
+C:\Users\starushka\Desktop\DirCreator\bin\Debug\net8.0-windows\DirCreator.pdb
+C:\Users\starushka\Desktop\DirCreator\obj\Debug\net8.0-windows\DirCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\starushka\Desktop\DirCreator\obj\Debug\net8.0-windows\DirCreator.AssemblyInfoInputs.cache
+C:\Users\starushka\Desktop\DirCreator\obj\Debug\net8.0-windows\DirCreator.AssemblyInfo.cs
+C:\Users\starushka\Desktop\DirCreator\obj\Debug\net8.0-windows\DirCreator.csproj.CoreCompileInputs.cache
+C:\Users\starushka\Desktop\DirCreator\obj\Debug\net8.0-windows\DirCreator.dll
+C:\Users\starushka\Desktop\DirCreator\obj\Debug\net8.0-windows\refint\DirCreator.dll
+C:\Users\starushka\Desktop\DirCreator\obj\Debug\net8.0-windows\DirCreator.pdb
+C:\Users\starushka\Desktop\DirCreator\obj\Debug\net8.0-windows\DirCreator.genruntimeconfig.cache
+C:\Users\starushka\Desktop\DirCreator\obj\Debug\net8.0-windows\ref\DirCreator.dll
